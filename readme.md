@@ -6,6 +6,3 @@ This is the repository for my bookings and reservations page
 - Uses the [chi router](https://github.com/go-chi/chi)
 - Uses [alex edwards SCS](https://github.com/alexedwards/scs)
 - Uses [NoSurf](https://github.com/justinas/nosurf)
-- testing line 1
-- testing line 2
-- testing line 3
